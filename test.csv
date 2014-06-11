@@ -1,0 +1,12 @@
+Year,Result,Bool,Name,Gender,Average
+2000,55,TRUE,Josh,m,60.7
+2001,61,FALSE,Dan,m,82.1
+2002,61,TRUE,Steve,m,55.7
+2003,64,TRUE,Anna,f,60.2
+2004,59,FALSE,Linda,f,67.3
+2005,65,FALSE,Dave,m,72.4
+2006,71,FALSE,Andy,m,71.2
+2007,69,TRUE,Bob,m,67.3
+2008,54,FALSE,Julie,f,56.8
+2009,76,TRUE,Alexis,f,62.4
+2010,72,TRUE,Sam,m,70.8
